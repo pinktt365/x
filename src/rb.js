@@ -1,4 +1,4 @@
-// 91rb v1.0
+// 91rb v1.1
 [{
     host: '91rb',
     script: function () {
